@@ -1,4 +1,7 @@
 {
   "name": "GoalAchiever",
-  "displayName": "GoalAchiever"
+  "displayName": "GoalAchiever",
+  "expo": {
+    "sdkVersion": "27.0.0"
+  }
 }
